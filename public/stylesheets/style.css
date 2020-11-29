@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+#hlinks a
+{
+  margin-right: 5px;
+}
